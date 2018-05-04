@@ -7,5 +7,21 @@
 .wrapper{
     width: 100%;
     padding:30px 100px;
-    text-align: center;
+}
+
+h1{
+    font-size: 26px;
+    margin-bottom:20px;
+}
+
+form{
+    display: inline-block;
+    width:400px;
+}
+
+.msg{
+    display: inline-block;
+    vertical-align: top;
+    margin-left:20px;
+    color:darkred;
 }
